@@ -18,4 +18,10 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC acme_transport_taxinyc.test_torbjorngul_feattg2025knowitcourse_514d1f89_revenue
+# MAGIC
+# MAGIC acme_transport_taxinyc.test_torbjorngul_feattg2025knowitcourse_514d1f89_revenue.revenue_by_borough
+# MAGIC
+# MAGIC ...
+# MAGIC
+# MAGIC
